@@ -2,9 +2,8 @@
   <q-page>
     <div class="q-pa-md row justify-center">
       <h6 class="text-white bg-pink-6">
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BOLÃO MEGA
-        BROTHERS&nbsp;&nbsp;<br />&nbsp;&nbsp;Mega Sena da Virada
-        2024&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;BOLÃO MEGA BROTHERS&nbsp;&nbsp;<br />&nbsp;&nbsp;Mega
+        Sena da Virada 2024&nbsp;&nbsp;
       </h6>
       <br />
     </div>
