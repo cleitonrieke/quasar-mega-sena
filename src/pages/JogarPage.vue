@@ -9,14 +9,12 @@
       />
     </div>
     <div class="q-pa-md row justify-center">
-      <div class="col-3">
-        <q-btn
-          push
-          color="black"
-          text-color="white"
-          label="Selecione 6 Dezenas"
-        />
-      </div>
+      <q-btn
+        push
+        color="black"
+        text-color="white"
+        label="Selecione 6 Dezenas"
+      />
     </div>
     <div class="q-pa-md row justify-center">
       <div class="col-1">
@@ -825,7 +823,7 @@ const selecionado = [
   false,
 ];
 
-//validarConvite(convite);
+validarConvite(convite);
 
 function clickBotao(indice) {
   if (selecionado[indice] == false) {
